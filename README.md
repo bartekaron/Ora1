@@ -1,0 +1,2 @@
+# Ora1
+feladat
